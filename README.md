@@ -6,7 +6,7 @@ Human race classification with deep neural networks.
 
 <p align="center"><img width="75%" src="docs/utk.jpg" /></p>
 
-Preprocessed UTKFace dataset is is available on [Google.Drive](https://drive.google.com/file/d/1kQL4l8SovFOaw0Oysad3w2iqjQ0w87S9/view?usp=sharing).
+Preprocessed UTKFace dataset is available on [Google.Drive](https://drive.google.com/file/d/1kQL4l8SovFOaw0Oysad3w2iqjQ0w87S9/view?usp=sharing).
 
 ## Train
 
