@@ -16,5 +16,7 @@ The model was trained and tested with [Caffe](https://github.com/BVLC/caffe). Yo
 |:-------------:|:-------------:|:-------------:|:-------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 | [GoogleNet](https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet) | SGD | GPU | 40k | 20k | 0.925 | 0.930 | 0.9325 |
 
+Model [snapshot](train/snapshots) is included.
+
 ## License
 MIT
