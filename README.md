@@ -9,9 +9,9 @@ Human race classification with deep neural networks.
 Preprocessed UTKFace dataset is available on [Google.Drive](https://drive.google.com/file/d/1kQL4l8SovFOaw0Oysad3w2iqjQ0w87S9/view?usp=sharing).
 
 ## Train/Test
-| CNN | Solver | Mode | Iterations | Data | Loss-1/Top-1 | Loss-2/Top-1 | Loss-3/Top-1 |
-|-------------|-------------|-------------|-------------|--------------|--------------|--------------|--------------|
-| [GoogleNet](https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet) | SGD | GPU | 40k | 20k | 0.925 | 0.93 | 0.9325 |
+| Producer | CNN | Solver | Mode | Iterations | Data | Loss-1/Top-1 | Loss-2/Top-1 | Loss-3/Top-1 |
+|-------------|-------------|-------------|-------------|-------------|--------------|--------------|--------------|--------------|
+| [Caffe](https://github.com/BVLC/caffe) | [GoogleNet](https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet) | SGD | GPU | 40k | 20k | 0.925 | 0.93 | 0.9325 |
 
 
 
