@@ -9,17 +9,17 @@ Human race classification with deep neural networks.
 Preprocessed UTKFace dataset is available on [Google.Drive](https://drive.google.com/file/d/1kQL4l8SovFOaw0Oysad3w2iqjQ0w87S9/view?usp=sharing).
 
 ## Train
-Convolutional Neural Network: [GoogleNet](https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet)
-Solver: SGD
-Mode: GPU
-Iterations: 40k
-Dataset: 22k
+Convolutional Neural Network: [GoogleNet](https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet)  
+Solver: SGD  
+Mode: GPU  
+Iterations: 40k  
+Dataset: 22k  
 
 ## Test
-Iterations: 100
-Loss-1/Top-1 = 0.925
-Loss-2/Top-1 = 0.93
-Loss-3/Top-1 = 0.9325
+Iterations: 100  
+Loss-1/Top-1 = 0.925  
+Loss-2/Top-1 = 0.93  
+Loss-3/Top-1 = 0.9325  
 
 ## License
 MIT
